@@ -17,7 +17,6 @@
 			float:left;
             background-color:rgba(143,207,251,0.5);
 
-	        color: black;
             
 			font-family:Lato-Regu;
 
@@ -26,14 +25,14 @@
 	@font-face {
 font-family: "Lato";
 src: url(Lato-Light.ttf) format("truetype");}
+
 	@font-face {
 font-family: "Raleway";
-src: url(Raleway.ttf) format("truetype");}
+src: url(Lato-Light.ttf) format("truetype");}
  @font-face {
 font-family: "Lato-Regu";
-src: url(Lato-Regu.ttf) format("truetype");}
- 
-body {
+src: url(Lato-Regular.ttf) format("truetype");}
+ body {
 
 	margin: 0 auto;
 	background-color:rgb(236,236,236);
